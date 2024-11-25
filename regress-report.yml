@@ -15,6 +15,7 @@ bugreports:
       Opera One(версия: 114.0.5282.222)
     steps-to-reproduce: |
       1. Зайти на главную страницу сайта https://products-store-git-v2bugfixes-hexlet-components.vercel.app
+      2. Поменять язык перевода сайта на русский
     expected-result: |
       На главной странице сайта должна быть кнопка Предыдущая
     actual-result: |
