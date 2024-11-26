@@ -159,7 +159,22 @@
   expected-result: |
     Товар отображается в корзине
 
-
+- summary: |
+    Оформление заказа
+  requirement: |
+    Заказ успешно формлен
+  prerequisites: |
+    Открыта главная страница 
+  test-data: |
+    Chanel Coco Noir Eau De
+  steps:
+    - Ввести в поле поиска Chanel Coco Noir Eau De
+    - Выполнить поиск
+    - Добавить товар в корзину
+    - Нажать на значок корзины
+    - Нажать оформить заказ
+  expected-result: |
+    Заказ успешно формлен
     
 
 
