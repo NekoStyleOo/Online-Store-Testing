@@ -8,7 +8,6 @@
   test-data: |
     Chanel Coco Noir Eau De
   steps:
-    - Открыть домашнюю страницу
     - Ввести в поле поиска ключевое слово
     - Выполнить поиск
   expected-result: |
@@ -23,7 +22,6 @@
   test-data: |
     "Chanel Coco Noir Eau De
   steps:
-    - Открыть домашнюю страницу
     - Ввести в поле поиска ключевое слово
     - Выполнить поиск
   expected-result: |
