@@ -153,7 +153,6 @@
     Chanel Coco Noir Eau De
   steps:
     - Ввести в поле поиска Chanel Coco Noir Eau De
-    - Выполнить поиск
     - Добавить товар в корзину
     - Нажать на значок корзины
   expected-result: |
