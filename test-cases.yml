@@ -182,6 +182,7 @@
   test-data: |
     Chanel Coco Noir Eau De
   steps:
+    - Ввести в поле поиска Chanel Coco Noir Eau De
     - Добавить товар в корзину Chanel Coco Noir Eau De
     - Перейти в корзину
     - В строчке нажать кнопку удалить Chanel Coco Noir Eau De
