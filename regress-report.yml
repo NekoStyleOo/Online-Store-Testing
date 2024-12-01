@@ -54,7 +54,7 @@ test-cases:
 
 - summary: |
     Проверка удаления некольких товаров из корзины
-  status: pass
+  status: fail
 
 - summary: |
     Проверить работу иконки Магазин
