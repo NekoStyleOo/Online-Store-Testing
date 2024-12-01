@@ -76,3 +76,31 @@
     В шаге 2 devtools выводятся сообщения об ошибках
     Cкриншот Bag reports/Багрепорт 5.png
 
+- summary: |
+    Не работает фильтрация в наличие
+  environment: |
+    Opera One(версия: 114.0.5282.185)
+  steps-to-reproduce: |
+    1. Зайти на главную страницу сайта https://hexlet-products-store.vercel.app
+    2. Выбрать категорию Essence
+    3. Снять флажок в наличие 
+  expected-result: |
+    Сайт отображает информацию о товарах которых нет в наличие
+  actual-result: |
+    Появилось сообщение "Ничего не найдено!"
+    Cкриншот Bag reports/Багрепорт 1.png
+
+- summary: |
+    Не работает фильтрация в наличие
+  environment: |
+    Opera One(версия: 114.0.5282.185)
+  steps-to-reproduce: |
+    1. Зайти на главную страницу сайта https://hexlet-products-store.vercel.app
+    2. Выбрать категорию Essence
+    3. Снять флажок в наличие 
+  expected-result: |
+    Сайт отображает информацию о товарах которых нет в наличие
+  actual-result: |
+    Появилось сообщение "Ничего не найдено!"
+    Cкриншот Bag reports/Багрепорт 1.png
+
