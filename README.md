@@ -1,7 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/NekoStyleOo/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/NekoStyleOo/qa-engineer-project-84/actions)
 
-Actions Status
 Проект по тестированию интернет-магазина.
 
 В интернет-магазине покупатель может:
